@@ -10,6 +10,13 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "AIAssistant",
+			"Enabled": true
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"C:/Users/forsa/OneDrive/Desktop/LudusAI"
 	]
 }
